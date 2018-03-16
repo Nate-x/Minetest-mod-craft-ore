@@ -1,4 +1,4 @@
-this mod is a simple mod that allows you to craft ore, including ores from the technic mod and the moreores mod.
+this mod is a simple mod that allows you to craft ore blocks, including ores from the technic mod and the moreores mod.
 
 __________________
 lump_|stone|_____|
